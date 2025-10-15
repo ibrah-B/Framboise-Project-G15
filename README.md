@@ -1,8 +1,11 @@
 # Framboise
-Groupe 15 MI8 \n
-Membres du groupe:\n
-Ibrahim Boubaya\n
-Yassine Elmokhtari\n
+Groupe 15 MI8
+Membres du groupe:
+
+Ibrahim Boubaya
+
+Yassine Elmokhtari
+
 Jules Decorps n0 21506930
 
 
