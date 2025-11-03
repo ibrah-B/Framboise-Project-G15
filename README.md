@@ -1,4 +1,4 @@
-# Framboise
+# Stage Sense
 Groupe 15 MI8
 Membres du groupe:
 
