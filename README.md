@@ -27,3 +27,6 @@ Trop basse (flat ou grave),
 Trop haute (sharp ou aiguë),
 
 Ou juste (in tune).
+
+
+Analyse fonctionnel: https://docs.google.com/document/d/1Xv4L5GBNbsPlR7ObHL4nWX3oHlsIHanlv4S4YvUdVAQ/edit?tab=t.0#heading=h.le26qshjrscs
