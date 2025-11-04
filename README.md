@@ -28,5 +28,21 @@ Trop haute (sharp ou aiguë),
 
 Ou juste (in tune).
 
-
-Analyse fonctionnel: https://docs.google.com/document/d/1Xv4L5GBNbsPlR7ObHL4nWX3oHlsIHanlv4S4YvUdVAQ/edit?tab=t.0#heading=h.le26qshjrscs
+---------------------------
+STRUCTURE DU REPO:
+├── backend/          → Server-side logic (API + sound processing)
+│   ├── app.py        → Main FastAPI entry point
+│   ├── services/     → Core modules (tuner logic, instruments data)
+│   ├── tests/        → All backend tests (pytest)
+│   └── requirements.txt
+│
+├── frontend/         → Client-side web app (React)
+│   ├── public/       → Static assets (icons, images)
+│   ├── src/          → Main source files
+│   │   ├── components/ → Reusable UI parts (TunerDisplay, etc.)
+│   │   ├── pages/      → App pages (Home, Settings)
+│   │   ├── services/   → API requests to backend
+│   │   └── App.jsx     → Main app entry
+│   └── package.json
+│
+└── README.md         → You are here
