@@ -45,4 +45,4 @@ STRUCTURE DU REPO:
 │   │   └── App.jsx     → Main app entry
 │   └── package.json
 │
-└── README.md         → You are here
+└── README.md         → VZ ETES ICI
